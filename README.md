@@ -9,3 +9,4 @@ This mod plays a sound whenever you land a 3-block hit, making it easier to tell
 | 1.21.11            | ⚠️ partially (no longer being updated)              |
 
 
+Download here: https://modrinth.com/mod/reachping/
